@@ -1,0 +1,19 @@
+{
+  "name": "responsive-tester",
+  "version": "0.0.1",
+  "description": "Elastic container to test components responsive behavior.",
+  "main": "src/index.jsx",
+  "author": "Gustavo Muñoz <timbergus@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "responsive",
+    "tester",
+    "tool"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timbergus/responsive-tester.git"
+  },
+  "private": false
+}
