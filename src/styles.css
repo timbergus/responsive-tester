@@ -1,0 +1,13 @@
+:root {
+  --position: 0;
+  --br-width: 20px;
+  --green-color: #7d7;
+}
+
+body {
+  width: 100%;
+  max-width: 768px;
+  margin: 0;
+  margin: auto;
+  padding: 0;
+}
